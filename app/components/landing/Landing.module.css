@@ -1,97 +1,94 @@
-.text p{
-    font-size: 15px; 
+.text p {
+    font-size: 15px;
     font-weight: 600;
     line-height: 18px;
     margin-bottom: 10px;
     font-size: 15px;
-  }
-  .text{
-      display: flex;
-      flex-direction: column;
-      position: absolute;
-      top: 600px;
-      left: 100px;
-      letter-spacing: -0.01em;
-      color: #FFFFFF;
-      display: flex;
-      text-align: left;
-      width: 297px;
-      height: 113px;
-      z-index: 1;
-  }
-  .text span{
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 600px;
+    left: 100px;
+    letter-spacing: -0.01em;
+    color: #ffffff;
+    display: flex;
+    text-align: left;
+    width: 297px;
+    height: 113px;
+    z-index: 1;
+}
+.text span {
     margin-bottom: 10px;
     font-size: 34px;
     font-weight: 700;
-  }
+}
 
-  .myPhoto{
+.myPhoto {
     width: 400px;
     height: 46px;
     position: absolute;
     z-index: 1;
     left: 34px;
     top: 56px;
-  }
+}
 
-  .work1{
+.work1 {
     width: 400px;
     height: 46px;
     position: absolute;
     z-index: 1;
     left: 504px;
     top: 56px;
-  }
+}
 
-  .work2{
+.work2 {
     width: 400px;
     height: 46px;
     position: absolute;
     z-index: 1;
     left: 1004px;
     top: 56px;
-  }
+}
 
-  .work3{
+.work3 {
     width: 400px;
     height: 46px;
     position: absolute;
     z-index: 1;
     left: 504px;
     top: 406px;
-  }
+}
 
-  .work4{
+.work4 {
     width: 400px;
     height: 46px;
     position: absolute;
     z-index: 1;
     left: 1004px;
     top: 406px;
-  }
+}
 
-  .buttonDiv{
+.buttonDiv {
     width: 400px;
     height: 46px;
     position: absolute;
     z-index: 1;
     left: 1004px;
     top: 706px;
-  }
+}
 
-  .button{
+.button {
     background-color: black;
-    color: #FFFFFF;
+    color: #ffffff;
     padding: 20px;
-  }
+}
 
-  .text1{
+.text1 {
     position: absolute;
     top: 320px;
     left: 900px;
     display: flex;
-    color: #FFFFFF;
-  }
-
-
-  
+    color: #ffffff;
+}

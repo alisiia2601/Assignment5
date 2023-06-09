@@ -1,31 +1,31 @@
-.text p{
-    font-size: 15px; 
+.text p {
+    font-size: 15px;
     font-weight: 600;
     line-height: 18px;
     margin-bottom: 10px;
     font-size: 15px;
-  }
-  .text{
-      display: flex;
-      flex-direction: column;
-      position: absolute;
-      top: 600px;
-      left: 100px;
-      letter-spacing: -0.01em;
-      color: #FFFFFF;
-      display: flex;
-      text-align: left;
-      width: 297px;
-      height: 113px;
-      z-index: 1;
-  }
-  .text span{
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 600px;
+    left: 100px;
+    letter-spacing: -0.01em;
+    color: #ffffff;
+    display: flex;
+    text-align: left;
+    width: 297px;
+    height: 113px;
+    z-index: 1;
+}
+.text span {
     margin-bottom: 10px;
     font-size: 34px;
     font-weight: 700;
-  }
+}
 
-  .textDiv{
+.textDiv {
     border: 5px solid black;
     width: 400px;
     height: 46px;
@@ -33,16 +33,16 @@
     z-index: 1;
     left: 1004px;
     top: 606px;
-  }
+}
 
-  .text1{
+.text1 {
     background-color: black;
-    color: #FFFFFF;
+    color: #ffffff;
     padding: 20px;
-  }
+}
 
-  .button1{
+.button1 {
     position: absolute;
     top: 600px;
     left: 800px;
-  }
+}
